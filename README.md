@@ -3,7 +3,7 @@ python projects
 
 Python Projects to work on where ever
 
-#upload file to repo:
+#How to upload file to repo:
 
 On your computer, move the file you'd like to upload to GitHub into the local directory that was created when you cloned the repository.
 Open Terminal (for Mac and Linux users) or the command prompt (for Windows users).
